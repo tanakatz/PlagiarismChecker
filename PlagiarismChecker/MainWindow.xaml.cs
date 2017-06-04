@@ -29,7 +29,7 @@ namespace PlagiarismChecker
         /// <summary>
         /// String templates
         /// </summary>
-        static string ERROR_CODE_TEMPLATE = "ERROR: 0x{0}";
+        static string ERROR_CODE_TEMPLATE = "ERRORsss: 0x{0}";
         static string COMPLETE_MESSAGE_TEMPLATE = "The Document has {0}% Original Content";
         static string ORIGINALITY_COUNT_TEMPLATE = "Orignality : {0}%";
         static string PLAGIARISED_COUNT_TEMPLATE = "Plagiarised : {0}";
